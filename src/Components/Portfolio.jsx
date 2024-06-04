@@ -19,9 +19,10 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/red barries.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText =
+  "red barries image with code on the screen,nature , weather and located outside.";
 
 /**
  * Project list
@@ -31,28 +32,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "My TO-DO-WEB App",
+    description: "Create a To-do-web app by using Html,Css technique.",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7081986046569119745?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Rgistration form  for Beginners",
+    description: "Create A registation form whose data display in the same page.",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7082049958085824512?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "My Resume Site",
+    title: "Student Management System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Create a Student management sytem by using html,css and js techniques showing my design abilities.",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7088161584254005248?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Food menu cards",
+    description: "As a graphic designer design some food menu cards.",
+    url: "https://www.linkedin.com/posts/zainab-hussain-marri-428589267_graphicdesigninternship-foodmenudesign-infoaidtechopportunity-activity-7097276223025815553-X5kj?utm_source=share&utm_medium=member_desktop",
   },
 ];
 
